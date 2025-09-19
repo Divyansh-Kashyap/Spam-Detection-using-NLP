@@ -8,7 +8,7 @@ It processes raw text messages, applies NLP transformations, and classifies them
 ```
 ├── Spam Detection.ipynb   # Jupyter Notebook with full implementation
 ├── README.md              # Documentation
-└── dataset/               # Dataset (if applicable)
+└── dataset               # Dataset 
 ```
 ## 🔑 Key Features
 
