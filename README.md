@@ -5,10 +5,11 @@ This project implements a Spam Detection System using Natural Language Processin
 It processes raw text messages, applies NLP transformations, and classifies them into Spam or Ham (Not Spam) with high accuracy.
 
 ## 📂 Project Structure
+```
 ├── Spam Detection.ipynb   # Jupyter Notebook with full implementation
 ├── README.md              # Documentation
 └── dataset/               # Dataset (if applicable)
-
+```
 ## 🔑 Key Features
 
 Text Preprocessing:
@@ -68,16 +69,16 @@ nltk / re → Text preprocessing
 ## 🚀 How to Run
 
 Clone the repository:
-
+```
 git clone https://github.com/your-username/spam-detection-nlp.git
 cd spam-detection-nlp
-
+```
 
 Install dependencies:
-
+```
 pip install -r requirements.txt
 
-
+```
 Launch Jupyter Notebook:
 
 jupyter notebook "Spam Detection.ipynb"
